@@ -1,0 +1,30 @@
+plant CEFR in China (20mw) completed in 2011, still exists, has no loadfactor data
+
+plant LUCENS in Switzerland (6mw) appears to have existed only for 1 year in 1968, no load factor data
+
+Plant BONUS in USA (17mw) existed only from 1964 to 1967
+
+Plant CVTR in USA (17mw) existed only from 1963 to 1966
+
+Plant ELK RIVER in USA (22mw) existed only from 1963 to 1967
+
+Plant NEBRASKA in USA (75mw) existed only for 1 year in 1963
+
+Plant PATHFINDER in USA (59mw) existed only for 1 year in 1966
+
+Plant PIQUA in USA (12mw) existed only from 1963 to 1965
+
+Plant VALLECITOS in USA (24mw) existed only from 1957 to 1962
+
+Plants Dimitrovgrad and TROITSK exist in the load factor database but not in the plant database. Neither one
+have load factors in any of the years in the range. Not sure what their story is. 
+
+##################################
+
+tried using JIT compiler from numba and it made the code slower in every case.
+This is likely due to the fact that numba is not optimized to cooperate with
+pandas and therefore the overhead of compiling was not offset by gains in speed.
+
+Source, German 2018 power consumption:  https://www.cleanenergywire.org/news/total-electricity-consumption-germany-largely-stable-2018
+Source, Swiss 2018 power consumption:  https://www.bfe.admin.ch/bfe/en/home/news-and-media/press-releases/mm-test.msg-id-74726.html
+
