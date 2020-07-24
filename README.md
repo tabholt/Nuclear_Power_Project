@@ -1,7 +1,9 @@
 # Nuclear Power Visualiziaton Program
 
 Welcome to the Nuclear Power Reactor Data Visualization Program
+
 Programming HEC Lausanne Spring 2019
+
 Proffessor: Dr. Simon Scheidegger
 
 ### created by
